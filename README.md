@@ -185,7 +185,7 @@ lib/
 ### Pasos de Instalación
 
 > [!TIP]
-> Se puede probar en modo release en un dispositivo Android al descargar el archivo ya compilado en la sección de [Releases](https://github.com/LuisGamas/pulso_vital/releases).
+> Se puede probar en modo release en un dispositivo Android al descargar el archivo ya compilado en la sección de [Releases](https://github.com/luisgamas/pulso_vital/releases).
 
 1. **Clonar el repositorio**
 ```bash
